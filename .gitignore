@@ -2,6 +2,6 @@
 *
 # Unignore all with extensions
 !*.*
-# Inignore all dirs
+# Uninignore all dirs
 !*/
 
